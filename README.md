@@ -1,4 +1,5 @@
 # my-first-repo
 ?<php
- echo Hello word;
+ echo "Hello word";
+ echo "Rico Ganteng";
 ?>
